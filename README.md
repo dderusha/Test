@@ -336,7 +336,7 @@ A custom uamdm screenshot path. Alternatively, just replace the included uamdm_s
 
 ## Tips, Tricks, and Troubleshooting
 
-* _I made changes to the default LaunchAgent and now the UI isn't appearing?_
+* <b><i>I made changes to the default LaunchAgent and now the UI isn't appearing?</b></i>
 
 Make sure you unload, and reload the LaunchAgent after making changes.
 
