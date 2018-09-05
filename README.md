@@ -337,15 +337,18 @@ A custom uamdm screenshot path. Alternatively, just replace the included uamdm_s
 ## Tips, Tricks, and Troubleshooting
 
 * _I made changes to the default LaunchAgent and now the UI isn't appearing?_
-	Make sure you unload, and reload the LaunchAgent after making changes.
+
+Make sure you unload, and reload the LaunchAgent after making changes.
 
 * _Where is the logging located?_
+
 ```xml
 <string>/Library/Application Support/umad/umad.log</string>
 ```
 
-* _Why isn' the log file there?_
-	Remember to unload and reload the LaunchAgent.
+* _Why isn't the log file there?_
+
+Remember to unload and reload the LaunchAgent.
 
 
 ## Credits
