@@ -340,13 +340,13 @@ A custom uamdm screenshot path. Alternatively, just replace the included uamdm_s
 
 Make sure you unload, and reload the LaunchAgent after making changes.
 
-* _Where is the logging located?_
+* <b><i>Where is the logging located?</b></i>
 
 ```xml
 <string>/Library/Application Support/umad/umad.log</string>
 ```
 
-* _Why isn't the log file there?_
+* <b><i>Why isn't the log file there?</b></i>
 
 Remember to unload and reload the LaunchAgent.
 
